@@ -25,7 +25,7 @@
 
 ## Download
 
-here [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) DBPull for Windows and **for the linux and mac in development**.
+here [download](https://github.com/juanPWT/mp3player-desktop/releases) DBPull for Windows and **for the linux and mac in development**.
 
 ## Email me
 
